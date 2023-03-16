@@ -1,9 +1,9 @@
 [![MasterHead](https://blog.jetbrains.com/wp-content/uploads/2016/09/idea-idea_2016_3_streams_intentions_10.gif)](https://terminaljunkies.net/)
 <img align="right" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2022/01/hacker-gif.gif">
-<h1 align="center">Hi 👋, I'm Richtine</h1>
-<h3 align="center">From Turkey</h3>
+<h1 align="center">Hi 👋, I'm Melek</h1>
+<h3 align="center">From America</h3>
 
-<p align="left"> <img src="https://gpvc.arturio.dev/Richtine" alt="richtine" /> </p>
+<p align="left"> <img src="https://gpvc.arturio.dev/CodeMelek" alt="CodeMelek" /> </p>
 
 - 🔭 I’m currently working on [chase](https://github.com/Richtine/chase)
 
