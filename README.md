@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kovboy!</h1>
 <h3 align="center">From America</h3>
 
-<p align="left"> <img src="https://gpvc.arturio.dev/kxvboy1337" alt="CodeMelek" /> </p>
+<p align="left"> <img src="https://gpvc.arturio.dev/kxvboy1337" alt="mxrch1337" /> </p>
 
 - 🔭 I’m currently working on [nothing](https://github.com/kxvboy1337/)
 
